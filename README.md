@@ -1,2 +1,2 @@
-# ABD-Practicas
+# ADBD-Practicas
 ADMINISTRACIÓN Y DISEÑO DE BASE DE DATOS

@@ -162,7 +162,7 @@ START TRANSACTION;
 INSERT INTO Cliente (DNI, Bonificación, GastoMensual, Nombre) VALUES (57987254, 20.67, 30, 'Sergio Pitti');
 INSERT INTO Cliente (DNI, Bonificación, GastoMensual, Nombre) VALUES (47484038, 10.43, 15.68, 'Diego Rodríguez');
 INSERT INTO Cliente (DNI, Bonificación, GastoMensual, Nombre) VALUES (64829292, 50.80, 73.50, 'Teresa Bonet');
-INSERT INTO Cliente (DNI, Bonificación, GastoMensual, Nombre) VALUES (36399282, 17.82, 26.70, 'Antonella Pérez');
+INSERT INTO Cliente (DNI, Bonificación, GastoMensual, Nombre) VALUES (36399282, 17.82, 26.70, 'Antonella García');
 
 COMMIT;
 
